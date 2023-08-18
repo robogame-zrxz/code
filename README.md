@@ -1,3 +1,3 @@
 # code
-This repo in for the code(to be specific the control and vision code) that we use in robogame 2023.  
-When you commit, please use well-organised folders so others can understand what you have uploaded.
+**主目录：pid算法，避障，识别，巡线，电控五个大类。**  
+相应的负责人自己organize，如电控下面可以有机械臂，电机...等几个小目录。  
